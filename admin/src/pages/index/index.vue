@@ -35,8 +35,8 @@ export default {
   height: 100%;
   header {
     height: 80px;
-    background: #fff;
     line-height: 80px;
+    background: #fff url(../../images/logo.png) no-repeat 30px center;
   }
   .content {
     width: 100%;
